@@ -6,7 +6,7 @@ See the project live [here](https://zanderbe-simpson-quote-machine.glitch.me/).
 A simpson quote generator built using React.js and REST API that displays random simpsons quotes for the user.  
 
 ## General info
-This project uses React, Javascript and REST API in order to display and serve new quotes to the user. 
+This project uses React, JSON and REST API in order to display and serve new quotes to the user. 
 
 ## Status
 Project is: Complete.
